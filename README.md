@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 <h1 align="center">Hi 👋, I'm Alp Emre Ozturk</h1>
 
 
-- 🌱 I’m currently learning **.NetCore && React && ReactNative**
+- 🌱 I’m currently learning **React && ReactNative**
 
 - 📫 How to reach me **ozturkalpemre@gmail.com**
 
